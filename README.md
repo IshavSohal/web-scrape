@@ -1,2 +1,2 @@
 # web-scrape
-Web scraping newegg.ca using BS4 python framework
+Scraping newegg.ca using BS4 python framework
